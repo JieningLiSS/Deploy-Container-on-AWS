@@ -2,9 +2,9 @@
 
 ## Prerequisite 
 
--Install Docker
+-[Install Docker](https://docs.docker.com/install/)
 
--Install AWS CLI
+-[Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
 
 ## Step 1: Push your docker image to AWS ECR
 
